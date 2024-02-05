@@ -1,0 +1,19 @@
+{
+  "name": "astarjs",
+  "version": "1.0.0",
+  "description": "Implementation of A*; a basic vertex implementation and manhattan/euclidean heuristics. ",
+  "type": "module",
+  "main": "a_star.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "pathfinding",
+    "graph",
+    "javascript",
+    "heaps",
+    "a*"
+  ],
+  "author": "Andrew Bloese",
+  "license": "ISC"
+}
